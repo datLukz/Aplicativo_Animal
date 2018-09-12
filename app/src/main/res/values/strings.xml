@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Cadastrar_Animal</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="txtNomeAnimal">Animal Name:</string>
+    <string name="txtIdade">Age:</string>
+    <string name="txtCategoria">Category:</string>
+    <string name="txtSelecione">Select...</string>
+    <string name="txtNovaCategoria">New category...</string>
+    <string name="hintAnimal">Enter the animal name</string>
+    <string name="hintIdade">Enter the age</string>
+    <string name="hintCategoria">Enter the category name</string>
+    <string name="txtSalvar">Save</string>
+    <string name="txtCancelar">Cancel</string>
+
+    <string name="txtAtencao">Attention!!!</string>
+    <string name="txtCamposObrigatorios">Enter required fields, name and category!</string>
+
+
+
+
+</resources>
